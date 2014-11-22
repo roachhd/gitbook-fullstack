@@ -1,0 +1,13 @@
+{
+    "name": "GitBook FullStack",
+    "version": "0.0.0",
+    "description": "A starter Gitbook project with ask the bells and whistles.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/roachhd/gitbook-fullstack.git"
+    },
+    "author": "Katie Ball <katie@roachhd.com>",
+    "dependencies": {
+        "gitbook-plugin-autocover": "0.0.5"
+    }
+}
