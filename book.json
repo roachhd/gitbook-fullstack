@@ -7,7 +7,7 @@
     "plugins": ["autocover"],
     "pluginsConfig": {
         "autocover": {
-            "title": "Bells and Whistles",
+            "title": "GitBook FullStack",
            "author": "Katie Ball",
              "font": {
              "size": null,
